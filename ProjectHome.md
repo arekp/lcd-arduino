@@ -1,0 +1,1 @@
+Jak podpiąć LCD 2,4 do arduino
